@@ -33,7 +33,6 @@ npm start
 
 ## DO NOT PROCEED: ENDPOINT SPOILERS
 
-> Only read the below to confirm your notes regarding the expected API endpoint behavior based on reading the frontend codebase.
 
 ### Expected endpoints and behaviors
 
